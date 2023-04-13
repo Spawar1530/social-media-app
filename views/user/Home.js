@@ -144,7 +144,7 @@ function Home() {
     return () => {
       unsubscribe();
     };
-  }, [openDialog]);
+  }, [openDialog, user]);
 
   return (
     <View style={styles.root}>
