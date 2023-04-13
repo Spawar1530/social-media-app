@@ -77,4 +77,4 @@ social-media-app/android/app/build/outputs/apk/debug/app-debug.apk
 ## Demo
 
 Link to demo
-https://drive.google.com/file/d/12K5uA3F3MYK0qs2id4HCJDzCieA7yBku/view?usp=sharing
+https://drive.google.com/file/d/1mFchmlie4UwQITbzpd-jqIfGyPvyzCRc/view?usp=sharing
